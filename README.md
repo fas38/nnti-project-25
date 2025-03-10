@@ -12,7 +12,7 @@ For data selection (TS-DShapley): task_03.ipynb
 
 For fine tuning -
 
-- [With No Data Selection](./Task3_influential_data_points_Finetuning_Full_bitfit_Lora.ipynb)
+- [With No Data Selection](./Task3_all_data_points_Finetuning_Full_bitfit_Lora.ipynb)
 - [Top 100 Influential Points Selected](./Task3_influential_top100_data_points_Finetuning_Full_bitfit_Lora.ipynb)
 - [All Positive Influential Points Selected](./Task3_influential_data_points_Finetuning_Full_bitfit_Lora.ipynb)
 - [TS-DShapley Selected Points](./Task3_shapley_selected_data_points_Finetuning_Full_bitfit_Lora.ipynb)
